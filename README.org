@@ -1,0 +1,10 @@
+* vom-json
+
+A logger for vom in the style of lambda-log
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/vom-json.git   |
+| commit  | 27d90ee  |
+| systems | vom-json |
+|---------+-------------------------------------------|
+
